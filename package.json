@@ -1,0 +1,19 @@
+{
+  "name": "packagetest",
+  "version": "1.0.0",
+  "description": "test to publish an npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visarts/packageTest.git"
+  },
+  "author": "Brendan Best",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visarts/packageTest/issues"
+  },
+  "homepage": "https://github.com/visarts/packageTest#readme"
+}
